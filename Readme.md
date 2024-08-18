@@ -69,14 +69,18 @@
         Async e Await
         Observables X Promisses
         Micro front End
+	Thread (https://www.macoratti.net/10/09/c_thd1.htm)
 
     Padrões de Projeto
-        Singleton, Command, Build, Strategy, Template Method, Facade etc. (https://refactoring.guru/design-patterns)
+        Singleton, Command, Build, Strategy, Template Method, Facade etc. 
+		(https://refactoring.guru/design-patterns) 
+		https://www.gluo.mx/en-US/blog/design-patterns-cuantos-son-beneficios-y-cuales-son-los-mejores
         Solid, Open Closed (SOLID) etc, (https://medium.com/itautech/princ%C3%ADpios-solid-criando-e-mantendo-softwares-simples-e-eficientes-2614ca3417b2)
         Arquitetura: Evolutiva, DAL, Evento, MVC, MVVM, SOA, CQRS, Arquitetura Limpa ,Microserviços, SAGA,Hexagonal etc.
         Desenho de uma Arquitetura de Software (Drawio, https://excalidraw.com, https://www.websequencediagrams.com/ https://www.lucidchart.com/pages/), Miro
         Documento de Visão do projeto: Entendimento do projeto, C4,
         TOGAF: https://www.opengroup.org/togaf
+	Saga: https://sidhartarezende.medium.com/usando-saga-para-garantir-consist%C3%AAncia-de-dados-em-ambientes-distribu%C3%ADdos-2edad93798c7
         Entendimento e aprofundidade da arquitetura:
         https://eximia.co/elemarjr/
 	https://blog.casadodesenvolvedor.com.br/solid-na-pratica/
@@ -124,6 +128,11 @@
         https://kubernetes.io/pt-br/docs/tutorials/
         https://www.typescriptlang.org/docs/handbook/2/mapped-types.html
     	https://medium.com/@rafaasimi/formul%C3%A1rios-reativos-data-driven-fe90d6c85640
+	https://conexiam.com/pt/enterprise-architecture-model-a-quick-overview-of-the-basics/#business
+	https://levioconsulting.com/insights/how-to-dockerize-an-angular-application-with-nginx/
+	https://cheatsheets.zip/
+
+
         - Mediatr:
             https://www.macoratti.net/20/07/aspc_mediatr1.htm
             https://balta.io/blog/aspnet-core-cqrs-mediator
@@ -173,11 +182,11 @@
             https://medium.com/xp-inc/angular-cobertura-de-testes-ff97fb50620d
 
         - Input e OutPut
-            https://andrewrosario.medium.com/ injetando-componentes-no-angular-atrav%C3%A9s-de-diretivas-cae90992e83     
-                   https://pt.linkedin.com/pulse/ criando-um-componente-de-input-texto-gen%C3%A9rico-com-angular-castro
-                   https://www.scaler.com/topics/angular/input-and-output-directives-in-angular/
-                   https://code-maze.com/net-core-web-development-part12/
-                   https://github.com/geeksarray/angular-nested-component-with-input-and-output-decorator
+           	https://andrewrosario.medium.com/ injetando-componentes-no-angular-atrav%C3%A9s-de-diretivas-cae90992e83     
+                https://pt.linkedin.com/pulse/ criando-um-componente-de-input-texto-gen%C3%A9rico-com-angular-castro
+                https://www.scaler.com/topics/angular/input-and-output-directives-in-angular/
+                https://code-maze.com/net-core-web-development-part12/
+                https://github.com/geeksarray/angular-nested-component-with-input-and-output-decorator
 
         - IIS
             https://www.brunobrito.net.br/anatomia-de-uma-aplicacao-asp-net-iis-parte-i/
@@ -205,6 +214,7 @@
 
     - kubernetes
         https://github.com/FIAP/POSTECH_SOAT_KUBERNETES_2/tree/main/aula_8/secrets
+	https://opensource.com/article/20/11/run-kubernetes-locally
 
     - Roadmap Arquitetura
         https://roadmap.sh/software-architect
@@ -231,7 +241,8 @@
                 feature/6571-authenticacao
                 feature/6572-doc.Readme
 
-        Git Conventional: https://platform.uno/docs/articles/uno-development/git-conventional-commits.html
+        Git Conventional: 
+		https://platform.uno/docs/articles/uno-development/git-conventional-commits.html
 
     Sonar com GitLab
     	https://medium.com/@cristianvitortrucco/utilizando-o-sonarqube-e-10-minutos-aa9de5749fb3
@@ -247,10 +258,13 @@
 
         https://online.visual-paradigm.com/app/diagrams/#diagram:proj=0&type=C4Model&width=11&height=8.5&unit=inch&gallery=/repository/00af6def-9277-405f-9cdc-1a12d80f66e2.xml
         https://www.zup.com.br/blog/c4-model
-
         C4-Model: por que documentar a arquitetura dos seus projetos? | Zup
         Aprenda o que é C4-model e porque usar esse modelo para documentar a arquitetura, além do que temos feito nos produtos Open Source da Zup.
         www.zup.com.br
+	
+ Singleton,Transient e Scoped
+	https://www.c-sharpcorner.com/article/differences-between-scoped-transient-and-singleton-service/	
+	
 
 # Desafios
 
@@ -263,7 +277,8 @@
         https://guiadeti.com.br/30-sites-de-desafios-para-treinar-programacao/
 
 
-
+Life Cycle 
+	https://www.c-sharpcorner.com/article/life-cycle-of-a-net-core-application/
 
 # Grafana com visual studio
 	https://medium.com/@faulybsb/net-8-api-with-prometheus-and-grafana-29003adafd43
@@ -285,4 +300,4 @@
 Erro no Docker
 https://markpatton.cloud/2020/08/12/error-when-running-docker-on-windows-after-install-fixed/
 
-https://cheatsheets.zip/
+
