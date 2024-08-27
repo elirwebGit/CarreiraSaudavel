@@ -142,6 +142,7 @@
 
         - Hexadonal
             https://medium.com/tech-will/conhecendo-mais-sobre-a-arquitetura-hexagonal-com-nestjs-3ea2a85afb78
+	    https://medium.com/@pooja0403keshri/hexagonal-architecture-with-c-8b34413334fa
 
         - Chat gpt com C#
             https://ozpeace.hashnode.dev/how-to-integrate-chat-gpt-using-c-and-net-core
@@ -205,6 +206,12 @@
             https://www.macoratti.net/20/05/net_onion1.htm
             https://www.macoratti.net/21/05/net_onion1.htm
             https://www.infoq.com/br/articles/onion-architecture/
+	
+	- Clean Archictecture
+	    https://medium.com/@carloscastrogames/diferen%C3%A7a-entre-clean-arquitetura-e-hexagonal-bba28d306259
+	    https://medium.com/@pooja0403keshri/clean-architecture-a-comprehensive-guide-with-c-676beed5bdbb
+            https://positiwise.com/blog/clean-architecture-net-core
+
 
 
     - Devops SRE
