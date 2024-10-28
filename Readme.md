@@ -27,6 +27,9 @@
     Gramáticas
     Reading PodCast: SpoTfy, Youtube
     Ir aos Metuup
+    https://www.learnenglisheveryday.com/english-for-business-meetings/
+    https://www.ego4u.com/
+    https://esldiscussions.com/
 
 # Tecnológias
 
