@@ -34,6 +34,11 @@
     Simple Present X Present Continuous
     https://www.todamateria.com.br/simple-present/
     https://www.todamateria.com.br/pronomes-em-ingles/
+    Numeros cardinais
+    https://www.todamateria.com.br/ordinal-numbers/
+    
+    Greeting and Introducing
+    https://engoo.com/app/lessons/greetings-and-introductions/vXV26C_hEeeT0e_q7XuENA
 
 # Tecnológias
 
