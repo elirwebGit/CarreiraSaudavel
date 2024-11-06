@@ -39,6 +39,9 @@
     
     Greeting and Introducing
     https://engoo.com/app/lessons/greetings-and-introductions/vXV26C_hEeeT0e_q7XuENA
+    
+    prepositions of place
+    https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/prepositions-place
 
 # Tecnológias
 
