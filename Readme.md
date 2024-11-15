@@ -250,6 +250,9 @@
     - Terraform
         https://github.com/chgasparoto/curso-aws-com-terraform
         https://github.com/thiago88sp/terraform-treinamento/tree/master/1-terraform-basics
+	https://blog.devops.dev/using-localstack-with-nodejs-and-aws-sdk-4b111e2e6bd
+ 	https://dev.to/rotirotirafa/como-usar-terraform-localstack-com-docker-h44
+	https://docs.localstack.cloud/academy/localstack-deployment/infra-terraform/
 
     - Git Hub
         Padrão para comentario de codigo para o github
