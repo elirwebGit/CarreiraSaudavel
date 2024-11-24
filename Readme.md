@@ -146,6 +146,7 @@
 	https://conexiam.com/pt/enterprise-architecture-model-a-quick-overview-of-the-basics/#business
 	https://levioconsulting.com/insights/how-to-dockerize-an-angular-application-with-nginx/
 	https://cheatsheets.zip/
+ 	https://www.tutorialspoint.com/docker/docker_architecture.htm
 
 
         - Mediatr:
