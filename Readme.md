@@ -324,6 +324,15 @@ Life Cycle
         no cmd: chkdsk D: /f /x
         obs este D: é a unidade corrompida
 
+ Inglês
+ https://www.nacaofluente.com/
+ https://www.naturalreaders.com/
+ https://www.newsinlevels.com/
+ https://www.interpals.net/app/account
+ https://www.ego4u.com/
+ https://pt.forvo.com/word/resort/
+ 
+
 Erro no Docker
 https://markpatton.cloud/2020/08/12/error-when-running-docker-on-windows-after-install-fixed/
 
