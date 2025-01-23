@@ -238,6 +238,7 @@
     - kubernetes
         https://github.com/FIAP/POSTECH_SOAT_KUBERNETES_2/tree/main/aula_8/secrets
 	https://opensource.com/article/20/11/run-kubernetes-locally
+ 	https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=outind
 
     - Roadmap Arquitetura
         https://roadmap.sh/software-architect
