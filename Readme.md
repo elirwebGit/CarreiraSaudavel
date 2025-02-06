@@ -147,7 +147,7 @@
 	https://levioconsulting.com/insights/how-to-dockerize-an-angular-application-with-nginx/
 	https://cheatsheets.zip/
  	https://www.tutorialspoint.com/docker/docker_architecture.htm
-
+	https://sre.google/books/
 
         - Mediatr:
             https://www.macoratti.net/20/07/aspc_mediatr1.htm
